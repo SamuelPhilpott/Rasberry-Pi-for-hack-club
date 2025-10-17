@@ -10,8 +10,13 @@ This is my journal of the design and building process of **Rasberry Pi**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/619).
 
 
-## 10/17/2025 - I made my account and linked everything  
+## 10/17/2025 6:37 PM - I made my account and linked everything  
 
 I made a account and linked everything, I should have read the slack instructions better but i did it. This was a fun experience![Untitled.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4MywicHVyIjoiYmxvYl9pZCJ9fQ==--133c69275aa7abde65f982e49b032a5a0d653822/Untitled.jpg)
  and I cant wait to make some cool stuff and share it with everyone! I cant wait to watch others and me grow our projects! this is my first time  
+
+## 10/17/2025 6:57 PM - Found needed screen  
+
+I found a screen needed to make the project work because i need to make it a touch screen i found a 4.3 inch touch screen. this will allow it to work, currently looking for a low power screen.I am taking inspireation from the standby mode on iphone and maybe try to add it into the project![4.3inch-dsi-lcd-2_3.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0ecf6429d3a0cc529ed69e15ceb32f944a445ddb/4.3inch-dsi-lcd-2_3.jpg)
+  
 
