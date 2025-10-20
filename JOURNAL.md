@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Rasberry Pi**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/619).
-
-
 ## 10/17/2025 6:37 PM - I made my account and linked everything  
 
 I made a account and linked everything, I should have read the slack instructions better but i did it. This was a fun experience![Untitled.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4MywicHVyIjoiYmxvYl9pZCJ9fQ==--133c69275aa7abde65f982e49b032a5a0d653822/Untitled.jpg)
@@ -23,5 +19,10 @@ I found a screen needed to make the project work because i need to make it a tou
 ## 10/17/2025 10 PM - Found the best Raspberry pi for the job  
 
 After looking at all the avalable options and taking cost into account I had figured out a raspberry Pi 3 B+ modle will have enough power and ports to do the job potentialy making it extra but if i went lower it would not be enough I may need to see how much ram i need tho![bef8cda3-64ea-4098-bf18-8e731a6e9a0d_3b++Angle+2.webp](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--c196127a823301f57df8f5715b6e2ffa9d9680fc/bef8cda3-64ea-4098-bf18-8e731a6e9a0d_3b%2B%2BAngle%2B2.webp)
+  
+
+## 10/20/2025 - working on cad modle!  
+
+After looking working on finding needed items i have been working on making the designs and software will come at a later date, working hard and hope for the best!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--577777b9a25d676b08038f90034c39ab30d5df8f/image.png)
   
 
