@@ -26,3 +26,8 @@ After looking at all the avalable options and taking cost into account I had fig
 After looking working on finding needed items i have been working on making the designs and software will come at a later date, working hard and hope for the best!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--577777b9a25d676b08038f90034c39ab30d5df8f/image.png)
   
 
+## 10/21/2025 - workign on code  
+
+Codeing is not fun lol, chat gpt helps but still has issues bit im working so wish me luck. The amazon downage slowed me down because my cad wouldent work because of it![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--734bfc70c490297e9bf50f1f6c3aa743cd9fa3bf/image.png)
+  
+
