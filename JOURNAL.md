@@ -36,3 +36,8 @@ Codeing is not fun lol, chat gpt helps but still has issues bit im working so wi
 Now after plenty of time I have now finished code and it is time to finish the cad which is soon! cant wait for you too see! this was fun and soon is the even more fun part!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--47a92514b389affa4cd4dd33b6889cb18fc9a86f/image.png)
   
 
+## 10/21/2025 10 PM - finished cad  
+
+Now the cad is done and I can finaly rest, I am so exeited now that everything works this is a first for me! now once i get my mats i can build. Cant wait to see how it goes![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--68908fecc9a62a8e17ccb1c9f1e137a6fca68b02/image.png)
+  
+
