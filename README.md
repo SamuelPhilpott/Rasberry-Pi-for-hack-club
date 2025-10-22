@@ -1,2 +1,2 @@
-This Project was inspired by one of my friends, I am usual at my desk all day working, I always get a lot of discord messages and notifications that I ignore and my friends get mad.
-I made this to help me Get better at responding to important things and controll my music, I love music I have been on the hunt to make a good way to controll my music so I hope this will be the soloution!
+I sit at my desk all day and I never know the time and I also then miss stuff because I set no alarms and I know im not the only one who has this issue.
+This is a Raspberry Pi based flip clock with colours, alarms and a sleek eleagant build and this was made to solve the issue!.
