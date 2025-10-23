@@ -41,3 +41,8 @@ Now after plenty of time I have now finished code and it is time to finish the c
 Now the cad is done and I can finaly rest, I am so exeited now that everything works this is a first for me! now once i get my mats i can build. Cant wait to see how it goes![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--68908fecc9a62a8e17ccb1c9f1e137a6fca68b02/image.png)
   
 
+## 10/22/2025 - Working out issues  
+
+Many issues with the ca because tinker cad wont let me export .step files so i had to use converters. everything is a mess but fun. I have learned a lot and hope to learn more![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4472be894acad967cd624afb47bd3e2061437c2/image.png)
+  
+
