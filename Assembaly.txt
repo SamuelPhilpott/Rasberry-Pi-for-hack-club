@@ -1,6 +1,0 @@
-(set up rasberry pi and instal python)
-Print BodyV2.step
-Take screen and then tape it using the bar in the Body, then attatch the pi using the connectors
-install Clock program
-run it
-And now your done!
