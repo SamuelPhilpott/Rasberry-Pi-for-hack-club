@@ -14,7 +14,7 @@ Assembaly
 
 2.) set up and instal python on your raspberry PI
 
-3.) using any adhesive you want (i reccomend dual sided tape) put it on the beam running through the stl (where the arrow points)<img width="512" height="357" alt="Screenshot 2025-10-29 10 20 20 PM" src="https://github.com/user-attachments/assets/1c3c67dc-678b-45ae-9a7b-cf5af8a06005" />
+3.) using any adhesive you want (i reccomend dual sided tape) put it on the beam running through the stl   (where the arrow points)            <img width="512" height="357" alt="Screenshot 2025-10-29 10 20 20 PM" src="https://github.com/user-attachments/assets/1c3c67dc-678b-45ae-9a7b-cf5af8a06005" />
 
 4.) stick screen on
 
