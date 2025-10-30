@@ -1,10 +1,6 @@
 (set up rasberry pi and instal python)
-First slot the only 2 printed pieces together
-then put the raspberry pie in its slot(the smaller of the 2)
-if you want you can hold it down with dual sided tape
-next lay in screen and hold in with sticky tape
-plug in
-instal python program
-tape led anywhere and plug in
-plug in pi and run program
-alldone
+Print BodyV2.step
+Take screen and then tape it using the bar in the Body, then attatch the pi using the connectors
+install Clock program
+run it
+And now your done!
