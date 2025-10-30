@@ -46,3 +46,8 @@ Now the cad is done and I can finaly rest, I am so exeited now that everything w
 Many issues with the ca because tinker cad wont let me export .step files so i had to use converters. everything is a mess but fun. I have learned a lot and hope to learn more![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4472be894acad967cd624afb47bd3e2061437c2/image.png)
   
 
+## 10/29/2025 - Redid My CAD  
+
+After my first itteration and getting amazing feed back from the reviwers I had redone my cad to fit a new raspberry pi and now i am working on makinging it even better (and easyer to print).!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca02a348a9d7d8924f7aaa233bdb395b0ccaec9/image.png)
+  
+
