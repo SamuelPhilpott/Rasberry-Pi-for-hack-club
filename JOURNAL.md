@@ -51,3 +51,8 @@ Many issues with the ca because tinker cad wont let me export .step files so i h
 After my first itteration and getting amazing feed back from the reviwers I had redone my cad to fit a new raspberry pi and now i am working on makinging it even better (and easyer to print).!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca02a348a9d7d8924f7aaa233bdb395b0ccaec9/image.png)
   
 
+## 10/30/2025 - Fixed the git hub and refined BOM  
+
+My old BOM was wrong so i fixed it and made it cheaper and i also added more instructions! I hope this update will help me and other hack clubbers! cant wait to see what follows next![Screenshot 2025-10-30 221404](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc3db881b96f7ae49471e52b0da00df4c4095db/Screenshot%202025-10-30%20221404.png)
+  
+
