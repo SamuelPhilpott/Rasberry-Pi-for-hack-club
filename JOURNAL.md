@@ -56,3 +56,8 @@ After my first itteration and getting amazing feed back from the reviwers I had 
 My old BOM was wrong so i fixed it and made it cheaper and i also added more instructions! I hope this update will help me and other hack clubbers! cant wait to see what follows next![Screenshot 2025-10-30 221404](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc3db881b96f7ae49471e52b0da00df4c4095db/Screenshot%202025-10-30%20221404.png)
   
 
+## 11/1/2025 - I hopefully did my final edits to my git hub  
+
+I have done my hopefully last edits to my git hub and I hope to finally start building! this is exiting, this is my first time doing a project like this and hope to do more in my near future!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d6ee3674d72fe4bc5baf35233682f48d2deacbc5/image.png)
+  
+
