@@ -10,7 +10,7 @@ It is a nice smooth python flip clock that has many colour schemes for you to ch
 
 Assembaly
 
-1.) You are going to 3d print the BodyV2.step file (listed in files) you can use most materials.
+1.) You are going to 3d print the BodyV4.step file (listed in files) you can use most materials.
 
 3.) solder on the headers to the PI
 
