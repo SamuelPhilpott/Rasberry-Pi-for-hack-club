@@ -61,10 +61,16 @@ My old BOM was wrong so i fixed it and made it cheaper and i also added more ins
 I have done my hopefully last edits to my git hub and I hope to finally start building! this is exiting, this is my first time doing a project like this and hope to do more in my near future!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d6ee3674d72fe4bc5baf35233682f48d2deacbc5/image.png)
   
 
-## 11/4/2025 - I polished up the body STEP file!  
+## 11/4/2025 3 PM - I polished up the body STEP file!  
 
 It is now a more smooth easier design, it is still simple easy and same build instructions! Now with sleek smooth corners. Now I the body will fit in more with today's smooth not blocky products!
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ebf4424cc997d1af876f79bdfddd71b2adf1ab9/image.png)
+  
+
+## 11/4/2025 9 PM - Git hub fix  
+
+fixed up my github assembly format to show it from angles and how its put together at the end, I just overall revamped my github! been working hard and hope to get it approved
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0cdaab0f022d16659811feaf8708cda94fae402/image.png)
   
 
