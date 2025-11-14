@@ -32,3 +32,5 @@ Assembaly
 
 9.) Enjoy and stay on time!
 <img width="213" height="121" alt="image" src="https://github.com/user-attachments/assets/8749a241-6b30-4b9c-9282-37cc5c8d26e0" />
+
+(this document has the latest updated infromation I can give!)
